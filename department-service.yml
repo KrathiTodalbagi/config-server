@@ -9,7 +9,7 @@ spring:
       hibernate:
         dialect: 'org.hibernate.dialect.PostgreSQLDialect'
   boot:
-    message: 'Hello! Department service'
+    message: 'Hello! Department service config for Auto refresh of Configs'
 
 eureka:
   instance:
