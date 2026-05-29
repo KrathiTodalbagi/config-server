@@ -11,7 +11,7 @@ spring:
       hibernate:
         dialect: 'org.hibernate.dialect.PostgreSQLDialect'
   boot:
-    message: 'Hello! Employee Service configs updated'
+    message: 'Hello! Employee Service configs updated for SpringCloud Bus demo'
 
 eureka:
   instance:
